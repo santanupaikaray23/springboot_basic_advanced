@@ -11,5 +11,36 @@ Spring Framework + Embedded Server - Configuration = Boot
 -It decreases the effort of the developer.
 -Opinionated Default - Automatically configure.
 
+Advantages of soring Boot:
+---------------------------
+-It creates stand-along spring  application that can be started using java-jar.
+-Embed Tomcat, Jetty or Undertow directly (no need to deploy WAR Files).
+-It provides opinionated starter dependencies to simplify your build Configuration.
+-Automatically configure spring and 3rd party libraries whenever possible.
+-It provides production-ready features such as metrics,Health checks and externalized
+Configuration.
+-Absolutely no code generation and no requirement for XML Configuration.
 
+SpringMVC:
+------------
+It stands for Model View Controller.
+
+It is build on the top of Servlet API.
+
+It follows the Model-View-Controller design pattern.
+
+It provides Powerful configuration.
+
+Rapid Application development
+
+MVC Design Pattern:
+--------------------
+Complete MVC Design Pattern Explained | Spring MVC Tutorial | Model | View | Controller
+Model  : Data
+View : Present data to User
+Controller : Interface b/w model and View
+
+- It is way to organize the code in our application.
+
+-
 
