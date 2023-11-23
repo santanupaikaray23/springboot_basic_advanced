@@ -1,0 +1,15 @@
+Video complected :1 
+--------------------
+-It is a sub-module of spring which makes our development speed.
+-It makes easy to create stand-alone production-grade spring based applications
+that you can just run.
+-It provides an easier and faster way to set up, configure and run both simple and web-based application.
+
+Spring Framework + Embedded Server - Configuration = Boot
+
+- Convention over Configuration software design style.
+-It decreases the effort of the developer.
+-Opinionated Default - Automatically configure.
+
+
+
